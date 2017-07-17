@@ -1,0 +1,141 @@
+#
+# WordPress Extension Manager
+# Copyright (C) 2008 Christian Schenk
+# This file is distributed under the same license as the WordPress Extension Manager.
+# Christian Schenk schenk@christianschenk.org, 2008.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.6\n"
+"Report-Msgid-Bugs-To: schenk@christianschenk.org\n"
+"POT-Creation-Date: 2008-01-13 12:53+0100\n"
+"Last-Translator: Christian Schenk <http://www.christianschenk.org>\n"
+"Language-Team: Christian Schenk <schenk@christianschenk.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension-manager.php:70
+msgid "Installed plugin"
+msgstr "Installierte plugin"
+
+#: extension-manager.php:71
+#, php-format
+msgid "Go activate it on the <a href=\"%s\">plugins screen</a>."
+msgstr "Aktiviere ihn auf der <a href=\"%s\">Plugins Seite</a>."
+
+#: extension-manager.php:85
+msgid "Removed installed plugin"
+msgstr "Entfernte installierten Plugin"
+
+#: extension-manager.php:88
+msgid "Removed downloaded plugin"
+msgstr "Entfernte heruntergeladenen Plugin"
+
+#: extension-manager.php:110
+msgid "What do you want to do?"
+msgstr "Was m&ouml;chten Sie tun?"
+
+#: extension-manager.php:112
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: extension-manager.php:113
+msgid "Install Themes"
+msgstr "Themes installieren"
+
+#: extension-manager.php:114 extension-manager.php:139
+msgid "Maintenance"
+msgstr "Wartung"
+
+#: extension-manager.php:125
+msgid "Plugins"
+msgstr "Plugins"
+
+#: extension-manager.php:132
+msgid "Themes"
+msgstr "Themes"
+
+#: extension-manager.php:143
+msgid "You haven't downloaded any plugins yet."
+msgstr "Bisher haben Sie noch keine Plugins heruntergeladen."
+
+#: extension-manager.php:145
+#, php-format
+msgid ""
+"Before deleting any installed plugins make sure that you've deactivated them "
+"on the <a href=\"%s\">plugins screen</a>."
+msgstr ""
+
+#: extension-manager.php:146
+msgid "You've installed or downloaded these plugins:"
+msgstr "Sie haben diese Plugins installiert oder heruntergeladen:"
+
+#: extension-manager.php:150 extension-manager.php:200
+msgid "Name"
+msgstr "Name"
+
+#: extension-manager.php:151
+msgid "Is installed"
+msgstr "Ist installiert"
+
+#: extension-manager.php:152
+msgid "Remove installed plugin"
+msgstr "Entferne installierten Plugin"
+
+#: extension-manager.php:153
+msgid "Remove downloaded file"
+msgstr "Entferne heruntergeladene Datei"
+
+#: extension-manager.php:159
+msgid "Yes"
+msgstr "Ja"
+
+#: extension-manager.php:159
+msgid "No"
+msgstr "Nein"
+
+#: extension-manager.php:163
+msgid "Remove installation"
+msgstr "Entferne Installation"
+
+#: extension-manager.php:171
+msgid "Remove download"
+msgstr "Entferne Download"
+
+#: extension-manager.php:190
+msgid "Nothing found"
+msgstr "Nichts gefunden"
+
+#: extension-manager.php:201
+msgid "Version"
+msgstr "Version"
+
+#: extension-manager.php:202
+msgid "Install"
+msgstr "Installieren"
+
+#: extension-manager.php:239
+msgid "Install Plugin"
+msgstr "Plugin installieren"
+
+#: extension-manager.php:259
+msgid "Plugins per page"
+msgstr "Plugins pro Seite"
+
+#: extension-manager.php:271
+msgid "Next"
+msgstr "Weiter"
+
+#: extension-manager.php:272
+msgid "Previous"
+msgstr "Zur&uuml;ck"
+
+#: extension-manager.php:274
+msgid "Search terms"
+msgstr "Suchworte"
+
+#: extension-manager.php:277
+msgid "Filter"
+msgstr "Filtern"
